@@ -23,7 +23,7 @@ N/A
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
 TODO, if applicable
-David Tran is going to be my project partner
+David Tran is going to be my project partner and Kush Patel a new member
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
