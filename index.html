@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plants vs Zombies</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+    <div class="game-container">
+        <div class="game-controls">
+            <button id="peashooter-button">
+                <img src="IMG/peashooter.png" alt="Peashooter">
+            </button>
+            <button id="cherry-button">
+                <img src="IMG/Cherry_Bomb1.png" alt="Cherry Bomb">
+            </button>
+        </div>
+
+        <canvas id="game"></canvas>
+
+        <div id="game-over" class="hidden">
+            <h1>Game Over</h1>
+            <button onclick="restartGame()">Restart</button>
+        </div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>
